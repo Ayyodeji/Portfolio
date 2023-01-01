@@ -522,13 +522,13 @@ const experience = {
         },
         {
           title: "AI/ML Engineer (Freelancer)",
-          company: "University of Missouri",
-          company_url: "https://missouri.edu/",
-          logo_path: "umc.png",
+          company: "Freelance",
+          company_url: "www.freelance.com",
+          logo_path: "freelance.png",
           duration: "March 2022 - Oct 2022",
           location: "Work From Home",
-          description: `Work closely with the Client and Team on change request functions.
-          We Primarily used Python (Tensorflow). 20% of my work was doing Research on Neural Networking concepts, while the other 80% of my work was designing deep learning models for Optical Character Recognition (OCR) and gene image classification
+          description: `Work closely with the Client and Team on Artificial intelligence research.
+          We Primarily used Python (Tensorflow). 20% of my work was doing Research on Neural Networking concepts, while the other 80% of my work was designing deep learning models for Optical Character Recognition (OCR), image segmentation as well as image classification
           `,
           // "Created Front end of Yearn Financial Mutual Funds website. also degined simple web application for better user experience, designed DB Schemas as well.",
           color: "#040f26",
@@ -655,7 +655,7 @@ const contactPageData = {
   blogSection: {
     title: "Blogs",
     subtitle:
-      "I don't blog frequently but when I do something awesome, I do try to document it so it can be helpful to others. I write on Twitter.",
+      "",
     link: "https://twitter.com/ayyodeji_",
     avatar_image_path: "blogs_image.svg",
   },
@@ -689,7 +689,7 @@ const projects = {
       name: "VIRTUAL ASSISTANT (ENI)",
       url: "#",
       description:
-        "Awesome Community Portfolio website for Bauddhik-Geeks community",
+        "Virtual Assistant written in python, Speech recognition combined with chat functionality [In Production]",
       languages: [
         {
           name: "Python",
@@ -706,7 +706,7 @@ const projects = {
       name: "NIGERIA HOUSE PRICE PREDICTION",
       url: "https://github.com/Ayyodeji/Nigeria-House-Price-Prediction",
       description:
-        "An E-commerce website built using MERN[Mongo, Express, React, Node] stack and we have also added stripe payment gateway integration [in test mode].",
+        "Price prediction of Nigerian houses using deep learning models for regression",
       languages: [
         {
           name: "Python",
@@ -727,7 +727,7 @@ const projects = {
       name: "CERTIFICATE GENERATOR",
       url: "https://github.com/Ayyodeji/HNG-Task-4",
       description:
-        "A simple blockchain and cryptocurrency wallet implemented in Node.js and TypeScript (for learning purposes).",
+        "Deployed a Certificate Generator app using several technologies for CI/CD",
       languages: [
         {
           name: "NGINX",
@@ -748,7 +748,7 @@ const projects = {
       name: "DEPRESSION DETECTION",
       url: "https://github.com/Ayyodeji/Depression-Detection",
       description:
-        "A top high price changed crypto coins wring 24 hoursA sound-classifier webapp made with ReactJS + TensorflowJS.",
+        "Machine learning models learning from a reddit dataset to predict suicidal or depressing posts/comments",
       languages: [
         {
           name: "Python",
@@ -773,7 +773,7 @@ const projects = {
       name: "MY PORTFOLIO",
       url: "https://github.com/",
       description:
-        "A simple command line interface based quiz app to know more about me :).",
+        "A Personal Portfolio Website that showcases my work and experience. which is hosted on Netlify",
       languages: [
         {
           name: "JavaScript",
@@ -787,13 +787,17 @@ const projects = {
           name: "NodeJS",
           iconifyClass: "logos-react",
         },
+        {
+          name: "Netlify",
+          iconifyClass: "logos-netlify",
+        },
       ],
     },
     {
       id: "3",
       name: "DJANGO-REACT APP",
       url: "https://github.com/Ayyodeji/HNG-2-DEVOPS-TASK",
-      description: "A Simple REST API for Blog Application.",
+      description: "Deployed an application built with react and django using reverse proxy with Nginx ",
       languages: [
         {
           name: "AWS",
@@ -813,7 +817,7 @@ const projects = {
       id: "4",
       name: "DYNAMIC MEV PREDICTION",
       url: "https://github.com/Ayyodeji/Dyanmic-MEV-Prediction",
-      description: "An Unofficial API for GitHub Repo Stars Count",
+      description: "A dynamic Maximal Extractable Value ethereum predictor",
       languages: [
         {
           name: "python",
@@ -834,7 +838,7 @@ const projects = {
       name: "YEAST SEGMENTATION",
       url: "https://github.com/Ayyodeji/Yeast-Segmentation",
       description:
-        "A Personal Portfolio Website that showcases my work and experience. which is hosted on Github Pages.",
+        "Yeast segmentation using ski-image on sklearn.",
       languages: [
         {
           name: "python",
@@ -850,7 +854,7 @@ const projects = {
       id: "6",
       name: "CROP RECOMMENDATION",
       url: "https://github.com/Ayyodeji/Crop-Recommendation",
-      description: "Automation of Online Attendance using node js and python",
+      description: "Prediction of best crop to plant during based on paramters such as time, location, natural elements of the soil and etcetera using machine learning algorithms for regression",
       languages: [
         {
           name: "python",
@@ -875,7 +879,7 @@ const projects = {
       name: "TELECOM CUSTOMER CHURN PREDICTION",
       url: "https://github.com/Ayyodeji/Customer-Churn-Prediction",
       description:
-        "A Discord Bot to send Automatic messages to serer channel in regular time difference.",
+        "Telecommunication customer churn prediction using Artificial, Convolutional and Recurrent (LSTM) models ",
       languages: [
         {
           name: "Python",
@@ -899,7 +903,7 @@ const projects = {
       id: "8",
       name: "NETWORK INTRUSION DETECTION",
       url: "https://github.com/Ayyodeji/Network-Intrusion-Detection",
-      description: "A Simple Blog Web Application made using Flask Framework",
+      description: "A Network introsion detection model built using machine learning and deep learning libraries",
       languages: [
         {
           name: "Python",
@@ -973,7 +977,7 @@ const projects = {
       name: "LONDON HOUSE PRICE PREDICTION",
       url: "https://github.com/Ayyodeji/London-House-Price-Prediction",
       description:
-        "Simple Covid-19 Tracker made using React and deployed to Vercel.",
+      "Price prediction of London houses using deep learning models for regression",
       languages: [
         {
           name: "Python",
@@ -997,7 +1001,7 @@ const projects = {
       id: "12",
       name: "HEART DISEASE PREDICTION",
       url: "https://github.com/Ayyodeji/Heart-Disease-Prediction",
-      description: "NFT Launchpad crypto site portfolio",
+      description: "Heart Disease prediction using machine learning algorithms",
       languages: [
         {
           name: "Python",
