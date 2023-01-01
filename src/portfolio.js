@@ -727,7 +727,7 @@ const projects = {
       name: "CERTIFICATE GENERATOR",
       url: "https://github.com/Ayyodeji/HNG-Task-4",
       description:
-        "Deployed a Certificate Generator app using several technologies for CI/CD",
+        "Deployed a Certificate Generator app using several technologies such as AWS EC2, AWS Beanstalk, AWS S3, Docker and Github for CI/CD",
       languages: [
         {
           name: "NGINX",
@@ -927,7 +927,7 @@ const projects = {
       id: "9",
       name: "SOBERPAL",
       url: "https://github.com/Ayyodeji/SoberPal",
-      description: "List of Top Netflix Series which is deployed to vercel.",
+      description: "Deployed a Certificate Generator app using several technologies for CI/CD.",
       languages: [
         {
           name: "NGINX",
@@ -952,7 +952,7 @@ const projects = {
       name: "ADDICTION SUPPORT ROOM",
       url: "https://github.com/Ayyodeji/addictionsupportroom.web",
       description:
-        "Simple Covid-19 Tracker made using React and deployed to Vercel.",
+        "Deployed a Addiction Support app using GitHub Actions for CI/CD.",
       languages: [
         {
           name: "Docker",
