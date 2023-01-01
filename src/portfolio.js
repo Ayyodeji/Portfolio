@@ -471,7 +471,7 @@ const certifications = {
       subtitle: "Microsoft Azure",
       logo_path: "Microsoft_Azure.png",
       certificate_link:
-        "#",
+        "",
       alt_name: "msazure",
       color_code: "#9dc0f8",
     },
