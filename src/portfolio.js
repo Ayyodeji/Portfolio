@@ -521,15 +521,28 @@ const experience = {
           color: "#040f26",
         },
         {
-          title: "AI/ML Engineer (Freelancer)",
-          company: "Freelance",
-          company_url: "www.freelance.com",
-          logo_path: "freelance.png",
+          title: "Artificial Intelligence / Machine Learning Engineer",
+          company: "BrigBox Technologies",
+          company_url: "#",
+          logo_path: "BrigBox.png",
           duration: "March 2022 - Oct 2022",
-          location: "Work From Home",
-          description: `Work closely with the Client and Team on Artificial intelligence research.
-          We Primarily used Python (Tensorflow). 20% of my work was doing Research on Neural Networking concepts, while the other 80% of my work was designing deep learning models for Optical Character Recognition (OCR), image segmentation as well as image classification
-          `,
+          location: "Abuja, Nigeria",
+          
+          // description: `Researching, building and designing artificial intelligence systems.
+          // oversaw a team of interns who were getting started in Artificial
+          // Intelligence.
+          // `,
+          // "I worked on the Dashboard project which helps users track their activities while using Walo Application. I also worked on Ocean Inventory Application and it's Admin panel Backend as well as on Ocean Inventory Admin Front-end using React and also worked on Walo Admin Backend.",
+          // color: "#040f26",
+          // title: "AI/ML Engineer (Freelancer)",
+          // company: "Freelance",
+          // company_url: "www.freelance.com",
+          // logo_path: "freelance.png",
+          // duration: "March 2022 - Oct 2022",
+          // location: "Work From Home",
+          description: `Researching, building and designing artificial intelligence systems.
+          oversaw a team of interns who were getting started in Artificial
+          Intelligence.`,
           // "Created Front end of Yearn Financial Mutual Funds website. also degined simple web application for better user experience, designed DB Schemas as well.",
           color: "#040f26",
         },
@@ -538,7 +551,7 @@ const experience = {
           company: "SoftAlliance and Resources Limited",
           company_url: "https://softalliance.com/",
           logo_path: "softalliance.jpeg",
-          duration: "Nov 2020 - Sept 2021",
+          duration: "May 2021 - Sept 2021",
           location: "Lagos, Nigeria",
           description: `Designed and developed analysis systems to extract information from large scale
           data. Developed dimensional data modeling. Implementing New Tools, and Documentation, among others.
@@ -546,52 +559,52 @@ const experience = {
           // "I worked on the Dashboard project which helps users track their activities while using Walo Application. I also worked on Ocean Inventory Application and it's Admin panel Backend as well as on Ocean Inventory Admin Front-end using React and also worked on Walo Admin Backend.",
           color: "#040f26",
         },
-        {
-          title: "Artificial Intelligence / Machine Learning Engineer",
-          company: "BrigBox Technologies",
-          company_url: "#",
-          logo_path: "BrigBox.png",
-          duration: "Feb 2020 - Oct 2020",
-          location: "Abuja, Nigeria",
-          description: `Researching, building and designing artificial intelligence systems.
-          oversaw a team of interns who were getting started in Artificial
-          Intelligence.
-          `,
-          // "I worked on the Dashboard project which helps users track their activities while using Walo Application. I also worked on Ocean Inventory Application and it's Admin panel Backend as well as on Ocean Inventory Admin Front-end using React and also worked on Walo Admin Backend.",
-          color: "#040f26",
-        },
+        // {
+        //   title: "Artificial Intelligence / Machine Learning Engineer",
+        //   company: "BrigBox Technologies",
+        //   company_url: "#",
+        //   logo_path: "BrigBox.png",
+        //   duration: "Feb 2020 - Oct 2020",
+        //   location: "Abuja, Nigeria",
+        //   description: `Researching, building and designing artificial intelligence systems.
+        //   oversaw a team of interns who were getting started in Artificial
+        //   Intelligence.
+        //   `,
+        //   // "I worked on the Dashboard project which helps users track their activities while using Walo Application. I also worked on Ocean Inventory Application and it's Admin panel Backend as well as on Ocean Inventory Admin Front-end using React and also worked on Walo Admin Backend.",
+        //   color: "#040f26",
+        // },
 
-        {
-          title: "Data Scientist",
-          company: "NITDA",
-          company_url: "https://nitda.gov.ng/",
-          logo_path: "nitda.png",
-          duration: "Aug 2017 - May 2018",
-          location: "Lagos, Nigeria",
-          description: `Here I was promoted to a full-time role of working as a Data Analyst,
-          Re-structured schemas with tables to enhance integrity.
-          Developed SQL stored procedures and stylesheets to reduce the overall data
-          retrieval time. Managing the organization"s Data centers and ensuring proper use of resources.
-          Ensured backups regularly occur and help the incidence response team.
-          `,
-          // "I worked on the Dashboard project which helps users track their activities while using Walo Application. I also worked on Ocean Inventory Application and it's Admin panel Backend as well as on Ocean Inventory Admin Front-end using React and also worked on Walo Admin Backend.",
-          color: "#040f26",
-        },
-        {
-          title: "Data Scientist (Intern)",
-          company: "NITDA",
-          company_url: "https://nitda.gov.ng/",
-          logo_path: "nitda.png",
-          duration: "March 2017 - Aug 2017",
-          location: "Lagos, Nigeria",
-          description: `interned as a Data Analyst where I was trained on how to analyze and
-          visualize data insights.
-          supervised monthly server audits and cleaning up of our
-          servers.
-          `,
-          // "I worked on the Dashboard project which helps users track their activities while using Walo Application. I also worked on Ocean Inventory Application and it's Admin panel Backend as well as on Ocean Inventory Admin Front-end using React and also worked on Walo Admin Backend.",
-          color: "#040f26",
-        },
+        // {
+        //   title: "Data Scientist",
+        //   company: "NITDA",
+        //   company_url: "https://nitda.gov.ng/",
+        //   logo_path: "nitda.png",
+        //   duration: "Aug 2017 - May 2018",
+        //   location: "Lagos, Nigeria",
+        //   description: `Here I was promoted to a full-time role of working as a Data Analyst,
+        //   Re-structured schemas with tables to enhance integrity.
+        //   Developed SQL stored procedures and stylesheets to reduce the overall data
+        //   retrieval time. Managing the organization"s Data centers and ensuring proper use of resources.
+        //   Ensured backups regularly occur and help the incidence response team.
+        //   `,
+        //   // "I worked on the Dashboard project which helps users track their activities while using Walo Application. I also worked on Ocean Inventory Application and it's Admin panel Backend as well as on Ocean Inventory Admin Front-end using React and also worked on Walo Admin Backend.",
+        //   color: "#040f26",
+        // },
+        // {
+        //   title: "Data Scientist (Intern)",
+        //   company: "NITDA",
+        //   company_url: "https://nitda.gov.ng/",
+        //   logo_path: "nitda.png",
+        //   duration: "March 2017 - Aug 2017",
+        //   location: "Lagos, Nigeria",
+        //   description: `interned as a Data Analyst where I was trained on how to analyze and
+        //   visualize data insights.
+        //   supervised monthly server audits and cleaning up of our
+        //   servers.
+        //   `,
+        //   // "I worked on the Dashboard project which helps users track their activities while using Walo Application. I also worked on Ocean Inventory Application and it's Admin panel Backend as well as on Ocean Inventory Admin Front-end using React and also worked on Walo Admin Backend.",
+        //   color: "#040f26",
+        // },
       ],
     },
     {
