@@ -14,10 +14,10 @@ const greeting = {
   logo_name: "ayyodeji()",
   nickname: "ayyodeji / ajayi",
   full_name: "Ajayi Ayodeji",
-  subTitle: "Data Scientist, Artificial Intelligence Enthusiast. DevOps👨🏽‍💻. Always learning.",
+  subTitle: "Artificial Intelligence Engineer, MLOps x DevOps👨🏽‍💻. Always learning.",
   resumeLink:
     "#",
-  mail: "mailto:ajayi.ayyodeji1@gmail.com",
+  mail: "mailto:ajayi.ayyodeji@gmail.com",
 };
 
 const socialMediaLinks = {
