@@ -33,146 +33,6 @@ const socialMediaLinks = {
 const skills = {
   data: [
     {
-      title: "Data Science",
-      fileName: "DataScienceImg",
-      skills: [
-        "⚡ Experience working with new and emerging data science technologies",
-        "⚡ Experience building and deploying machine learning models",
-        "⚡ Skilled with ETL procedures",
-        "⚡ Adept Explanatory Data Analysis prowess",
-        "⚡ Expertise in Data Visualization",
-      ],
-      softwareSkills: [
-        {
-          skillName: "jupyter",
-          fontAwesomeClassname: "vscode-icons:file-type-jupyter",
-          style: {
-            color: "#0865A6",
-          },
-        },
-        {
-          skillName: "python",
-          fontAwesomeClassname: "vscode-icons:file-type-python",
-          style: {
-            color: "#0865A6",
-          },
-        },
-        {
-          skillName: "MySQL",
-          fontAwesomeClassname: "simple-icons:mysql",
-          style: {
-            color: "#0865A6",
-          },
-        },
-        {
-          skillName: "Scikit-Learn",
-          fontAwesomeClassname: "simple-icons:scikit-learn",
-          style: {
-            color: "#3776AB",
-          },
-        },
-        {
-          skillName: "numpy",
-          fontAwesomeClassname: "vscode-icons:file-type-numpy",
-          style: {
-            color: "#0865A6",
-          },
-        },
-        {
-          skillName: "R",
-          fontAwesomeClassname: "vscode-icons:file-type-r",
-          style: {
-            color: "#0865A6",
-          },
-        },
-        {
-          skillName: "Pandas",
-          fontAwesomeClassname: "simple-icons:pandas",
-          style: {
-            color: "#521987",
-          },
-        },
-        {
-          skillName: "PowerBI",
-          fontAwesomeClassname: "simple-icons:powerbi",
-          style: {
-            color: "#DE33A6",
-          },
-        },
-        {
-          skillName: "Tableau",
-          fontAwesomeClassname: "simple-icons:tableau",
-          style: {
-            color: "#029FCE",
-          },
-        },
-        {
-          skillName: "excel",
-          fontAwesomeClassname: "vscode-icons:file-type-excel",
-          style: {
-            color: "#0865A6",
-          },
-        },
-        {
-          skillName: "Apache",
-          fontAwesomeClassname: "simple-icons:apache",
-          style: {
-            color: "#CA1A22",
-          },
-        },
-        {
-          skillName: "Tensorflow",
-          fontAwesomeClassname: "simple-icons:tensorflow",
-          style: {
-            color: "#FF9900",
-          },
-        },
-        {
-          skillName: "Keras",
-          fontAwesomeClassname: "simple-icons:keras",
-          style: {
-            backgroundColor: "#FFFFFF",
-            color: "#e32b2b",
-          },
-        },
-        {
-          skillName: "SQL",
-          fontAwesomeClassname: "vscode-icons:file-type-db",
-          style: {
-            color: "#0865A6",
-          },
-        },
-        {
-          skillName: "Matlab",
-          fontAwesomeClassname: "vscode-icons:file-type-matlab",
-          style: {
-            color: "#0865A6",
-          },
-        },
-        {
-          skillName: "AWS",
-          fontAwesomeClassname: "simple-icons:amazonaws",
-          style: {
-            color: "#FF9900",
-          },
-        },
-        {
-          skillName: "Azure",
-          fontAwesomeClassname: "vscode-icons:file-type-azure",
-          style: {
-            color: "#0865A6",
-          },
-        },
-        {
-          skillName: "medium",
-          fontAwesomeClassname: "simple-icons:medium",
-          style: {
-            color: "#00000",
-          },
-        },
-      ],
-    },
-    {
       title: "Artificial Intelligence",
       fileName: "FullStackImg",
       skills: [
@@ -432,6 +292,146 @@ const skills = {
         },
       ],
     },
+    {
+      title: "Data Science",
+      fileName: "DataScienceImg",
+      skills: [
+        "⚡ Experience working with new and emerging data science technologies",
+        "⚡ Experience building and deploying machine learning models",
+        "⚡ Skilled with ETL procedures",
+        "⚡ Adept Explanatory Data Analysis prowess",
+        "⚡ Expertise in Data Visualization",
+      ],
+      softwareSkills: [
+        {
+          skillName: "jupyter",
+          fontAwesomeClassname: "vscode-icons:file-type-jupyter",
+          style: {
+            color: "#0865A6",
+          },
+        },
+        {
+          skillName: "python",
+          fontAwesomeClassname: "vscode-icons:file-type-python",
+          style: {
+            color: "#0865A6",
+          },
+        },
+        {
+          skillName: "MySQL",
+          fontAwesomeClassname: "simple-icons:mysql",
+          style: {
+            color: "#0865A6",
+          },
+        },
+        {
+          skillName: "Scikit-Learn",
+          fontAwesomeClassname: "simple-icons:scikit-learn",
+          style: {
+            color: "#3776AB",
+          },
+        },
+        {
+          skillName: "numpy",
+          fontAwesomeClassname: "vscode-icons:file-type-numpy",
+          style: {
+            color: "#0865A6",
+          },
+        },
+        {
+          skillName: "R",
+          fontAwesomeClassname: "vscode-icons:file-type-r",
+          style: {
+            color: "#0865A6",
+          },
+        },
+        {
+          skillName: "Pandas",
+          fontAwesomeClassname: "simple-icons:pandas",
+          style: {
+            color: "#521987",
+          },
+        },
+        {
+          skillName: "PowerBI",
+          fontAwesomeClassname: "simple-icons:powerbi",
+          style: {
+            color: "#DE33A6",
+          },
+        },
+        {
+          skillName: "Tableau",
+          fontAwesomeClassname: "simple-icons:tableau",
+          style: {
+            color: "#029FCE",
+          },
+        },
+        {
+          skillName: "excel",
+          fontAwesomeClassname: "vscode-icons:file-type-excel",
+          style: {
+            color: "#0865A6",
+          },
+        },
+        {
+          skillName: "Apache",
+          fontAwesomeClassname: "simple-icons:apache",
+          style: {
+            color: "#CA1A22",
+          },
+        },
+        {
+          skillName: "Tensorflow",
+          fontAwesomeClassname: "simple-icons:tensorflow",
+          style: {
+            color: "#FF9900",
+          },
+        },
+        {
+          skillName: "Keras",
+          fontAwesomeClassname: "simple-icons:keras",
+          style: {
+            backgroundColor: "#FFFFFF",
+            color: "#e32b2b",
+          },
+        },
+        {
+          skillName: "SQL",
+          fontAwesomeClassname: "vscode-icons:file-type-db",
+          style: {
+            color: "#0865A6",
+          },
+        },
+        {
+          skillName: "Matlab",
+          fontAwesomeClassname: "vscode-icons:file-type-matlab",
+          style: {
+            color: "#0865A6",
+          },
+        },
+        {
+          skillName: "AWS",
+          fontAwesomeClassname: "simple-icons:amazonaws",
+          style: {
+            color: "#FF9900",
+          },
+        },
+        {
+          skillName: "Azure",
+          fontAwesomeClassname: "vscode-icons:file-type-azure",
+          style: {
+            color: "#0865A6",
+          },
+        },
+        {
+          skillName: "medium",
+          fontAwesomeClassname: "simple-icons:medium",
+          style: {
+            color: "#00000",
+          },
+        },
+      ],
+    },
   ],
 };
 
@@ -509,7 +509,7 @@ const experience = {
       title: "Work Experience",
       experiences: [
         {
-          title: "Data Scientist",
+          title: "AI/MLOps Engineer ",
           company: "Michelle & Anthony",
           company_url: "https://www.michelleandanthony.net/",
           logo_path: "MA-complete-logo.png",
@@ -521,7 +521,7 @@ const experience = {
           color: "#040f26",
         },
         {
-          title: "AI/ML Engineer (Freelancer)",
+          title: "AI/MLOps Engineer (Freelancer)",
           company: "Freelance",
           company_url: "www.freelance.com",
           logo_path: "freelance.png",
@@ -534,7 +534,7 @@ const experience = {
           color: "#040f26",
         },
         {
-          title: "Data Scientist",
+          title: "MLOps Engineer",
           company: "SoftAlliance and Resources Limited",
           company_url: "https://softalliance.com/",
           logo_path: "softalliance.jpeg",
@@ -547,7 +547,7 @@ const experience = {
           color: "#040f26",
         },
         {
-          title: "Artificial Intelligence / Machine Learning Engineer",
+          title: "AI/MLOps Engineer",
           company: "BrigBox Technologies",
           company_url: "#",
           logo_path: "BrigBox.png",
