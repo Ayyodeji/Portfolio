@@ -13,7 +13,7 @@ const greeting = {
   title2: "Ayodeji",
   logo_name: "ayyodeji()",
   nickname: "ayyodeji / ajayi",
-  full_name: "Ajayi Ayodeji",
+  full_name: "Ayodeji Ajayi",
   subTitle: "Artificial Intelligence Engineer, MLOps x DevOps👨🏽‍💻. Always learning.",
   resumeLink:
     "#",
