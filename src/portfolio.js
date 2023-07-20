@@ -14,7 +14,7 @@ const greeting = {
   logo_name: "ayyodeji()",
   nickname: "ayyodeji / ajayi",
   full_name: "Ayodeji Ajayi",
-  subTitle: "Artificial Intelligence Engineer, MLOps x DevOps 👨🏽‍💻. Always learning.",
+  subTitle: "Artificial Intelligence Engineer, MLOps x DevOps 👨🏽‍💻. Continuosly Improving.",
   resumeLink:
     "#",
   mail: "mailto:ajayi.ayyodeji@gmail.com",
@@ -485,6 +485,36 @@ const certifications = {
       // color_code: "#2AAFED",
       color_code: "#47A048",
     },
+    {
+      title: "Machine Learning (With Honours)",
+      subtitle: "IBM",
+      logo_path: "ibm.jpg",
+      certificate_link:
+        "https://www.coursera.org/account/accomplishments/certificate/HTZSC4FEZACH",
+      alt_name: "HackerRank P",
+      // color_code: "#2AAFED",
+      color_code: "#C5E2EE",
+    },
+    {
+      title: "FinOps Certified Practitioner",
+      subtitle: "FinOps Foundation",
+      logo_path: "finops.jpeg",
+      certificate_link:
+        "https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/2f57d864-a5d2-4ea1-b638-b101adfaae0e-ajayi-mobayonle-ayodeji-ef95b021-19ad-4adb-98eb-79e8fde5d114-certificate.pdf",
+      alt_name: "HackerRank P",
+      // color_code: "#2AAFED",
+      color_code: "#47A048",
+    },
+    {
+      title: "IBM DevOps",
+      subtitle: "IBM",
+      logo_path: "ibm.jpg",
+      certificate_link:
+        "https://coursera.org/share/6d5e22552518092333ee6598d6a9020e",
+      alt_name: "HackerRank P",
+      // color_code: "#2AAFED",
+      color_code: "#2AAFED",
+    },
     // color_code: "#8C151599",
     // color_code: "#7A7A7A",
     // color_code: "#0C9D5899",
@@ -497,53 +527,33 @@ const certifications = {
   ],
 };
 
-// Experience Page
 const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Volunteership",
-  description:"",
-    
+  description: "",
   header_image_path: "experience.svg",
   sections: [
     {
       title: "Work Experience",
       experiences: [
         {
-          title: "AI/MLOps Engineer ",
+          title: "Artificial Intelligence Engineer",
           company: "Michelle & Anthony",
           company_url: "https://www.michelleandanthony.net/",
           logo_path: "MA-complete-logo.png",
           duration: "Dec 2022 - Present",
           location: "Lagos, Nigeria",
-          description: `Tasked for collecting, analyzing and interpreting data as well as making useful insights from data to help drive the decision making in the organization
-          `,
-          // "I worked on the Dashboard project which helps users track their activities while using Walo Application. I also worked on Ocean Inventory Application and it's Admin panel Backend as well as on Ocean Inventory Admin Front-end using React and also worked on Walo Admin Backend.",
+          description: "Tasked for collecting, analyzing and interpreting data as well as making useful insights from data to help drive the decision making in the organization.",
           color: "#040f26",
         },
         {
-          title: "Artificial Intelligence / Machine Learning Engineer",
-          company: "BrigBox Technologies",
-          company_url: "#",
-          logo_path: "BrigBox.png",
-          duration: "March 2022 - Oct 2022",
-          location: "Abuja, Nigeria",
-          
-          // description: `Researching, building and designing artificial intelligence systems.
-          // oversaw a team of interns who were getting started in Artificial
-          // Intelligence.
-          // `,
-          // "I worked on the Dashboard project which helps users track their activities while using Walo Application. I also worked on Ocean Inventory Application and it's Admin panel Backend as well as on Ocean Inventory Admin Front-end using React and also worked on Walo Admin Backend.",
-          // color: "#040f26",
-          // title: "AI/ML Engineer (Freelancer)",
-          // company: "Freelance",
-          // company_url: "www.freelance.com",
-          // logo_path: "freelance.png",
-          // duration: "March 2022 - Oct 2022",
-          // location: "Work From Home",
-          description: `Researching, building and designing artificial intelligence systems.
-          oversaw a team of interns who were getting started in Artificial
-          Intelligence.`,
-          // "Created Front end of Yearn Financial Mutual Funds website. also degined simple web application for better user experience, designed DB Schemas as well.",
+          title: "Machine Learning Engineer",
+          company: "Brimble",
+          company_url: "https://www.brimble.com/",
+          logo_path: "brimble.jpeg",
+          duration: "Oct 2021 - Aug 2022",
+          location: "Lagos, Nigeria",
+          description: "Tasked for collecting, analyzing and interpreting data as well as making useful insights from data to help drive the decision making in the organization.",
           color: "#040f26",
         },
         {
@@ -553,75 +563,24 @@ const experience = {
           logo_path: "softalliance.jpeg",
           duration: "May 2021 - Sept 2021",
           location: "Lagos, Nigeria",
-          description: `Designed and developed analysis systems to extract information from large scale
-          data. Developed dimensional data modeling. Implementing New Tools, and Documentation, among others.
-          `,
-          // "I worked on the Dashboard project which helps users track their activities while using Walo Application. I also worked on Ocean Inventory Application and it's Admin panel Backend as well as on Ocean Inventory Admin Front-end using React and also worked on Walo Admin Backend.",
+          description: "Designed and developed analysis systems to extract information from large-scale data. Developed dimensional data modeling. Implementing New Tools, and Documentation, among others.",
           color: "#040f26",
         },
-        // {
-        //   title: "Artificial Intelligence / Machine Learning Engineer",
-        //   company: "BrigBox Technologies",
-        //   company_url: "#",
-        //   logo_path: "BrigBox.png",
-        //   duration: "Feb 2020 - Oct 2020",
-        //   location: "Abuja, Nigeria",
-        //   description: `Researching, building and designing artificial intelligence systems.
-        //   oversaw a team of interns who were getting started in Artificial
-        //   Intelligence.
-        //   `,
-        //   // "I worked on the Dashboard project which helps users track their activities while using Walo Application. I also worked on Ocean Inventory Application and it's Admin panel Backend as well as on Ocean Inventory Admin Front-end using React and also worked on Walo Admin Backend.",
-        //   color: "#040f26",
-        // },
-
-        // {
-        //   title: "Data Scientist",
-        //   company: "NITDA",
-        //   company_url: "https://nitda.gov.ng/",
-        //   logo_path: "nitda.png",
-        //   duration: "Aug 2017 - May 2018",
-        //   location: "Lagos, Nigeria",
-        //   description: `Here I was promoted to a full-time role of working as a Data Analyst,
-        //   Re-structured schemas with tables to enhance integrity.
-        //   Developed SQL stored procedures and stylesheets to reduce the overall data
-        //   retrieval time. Managing the organization"s Data centers and ensuring proper use of resources.
-        //   Ensured backups regularly occur and help the incidence response team.
-        //   `,
-        //   // "I worked on the Dashboard project which helps users track their activities while using Walo Application. I also worked on Ocean Inventory Application and it's Admin panel Backend as well as on Ocean Inventory Admin Front-end using React and also worked on Walo Admin Backend.",
-        //   color: "#040f26",
-        // },
-        // {
-        //   title: "Data Scientist (Intern)",
-        //   company: "NITDA",
-        //   company_url: "https://nitda.gov.ng/",
-        //   logo_path: "nitda.png",
-        //   duration: "March 2017 - Aug 2017",
-        //   location: "Lagos, Nigeria",
-        //   description: `interned as a Data Analyst where I was trained on how to analyze and
-        //   visualize data insights.
-        //   supervised monthly server audits and cleaning up of our
-        //   servers.
-        //   `,
-        //   // "I worked on the Dashboard project which helps users track their activities while using Walo Application. I also worked on Ocean Inventory Application and it's Admin panel Backend as well as on Ocean Inventory Admin Front-end using React and also worked on Walo Admin Backend.",
-        //   color: "#040f26",
-        // },
+        {
+          title: "Artificial Intelligence / Machine Learning Engineer",
+          company: "HupDev",
+          company_url: "#",
+          logo_path: "hupdev.jpeg",
+          duration: "March 2018 - Oct 2020",
+          location: "Abuja, Nigeria",
+          description: "Researching, building and designing artificial intelligence systems. Oversaw a team of interns who were getting started in Artificial Intelligence.",
+          color: "#040f26",
+        },
       ],
     },
     {
       title: "Volunteerships",
       experiences: [
-       
-        // {
-        //   title: "Campus Hustler",
-        //   company: "Skillenza",
-        //   company_url: "https://skillenza.com/",
-        //   logo_path: "skillenza.png",
-        //   duration: "Feb 2021 - Present",
-        //   location: "Work from Home",
-        //   description:
-        //     "Spread Awareness of new Technologies and new Opportunities to Students and Grow Skillenza Community.",
-        //   color: "#196acf",
-        // },
         {
           title: "GDG Student Volunteer",
           company: "Google Developer Groups",
@@ -629,8 +588,7 @@ const experience = {
           logo_path: "gdg.png",
           duration: "Feb 2021 - Present",
           location: "Work From Home",
-          description:
-            "Google Developer Group Surat Student Volunteer and Member.",
+          description: "Google Developer Group Surat Student Volunteer and Member.",
           color: "#040f26",
         },
         {
@@ -640,15 +598,13 @@ const experience = {
           logo_path: "github.png",
           duration: "Nov 2019 - Present",
           location: "Work from Home",
-          description:
-            "Contribute to Open Source Community and Open Source Project.",
+          description: "Contribute to Open Source Community and Open Source Project.",
           color: "#040f26",
         },
       ],
     },
   ],
 };
-
 // Projects Page
 const projectsHeader = {
   title: "Projects",
