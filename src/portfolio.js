@@ -464,7 +464,7 @@ const certifications = {
         "https://www.hackerrank.com/certificates/dd8c879c97d0",
       alt_name: "HackerRank PS",
       // color_code: "#2AAFED",
-      color_code: "#47A048",
+      color_code: "#ffffff",
     },
     {
       title: "AI  Fundamentals",
@@ -473,7 +473,7 @@ const certifications = {
       certificate_link:
         "",
       alt_name: "msazure",
-      color_code: "#9dc0f8",
+      color_code: "#ffffff",
     },
     {
       title: "Python",
@@ -483,7 +483,7 @@ const certifications = {
         "https://www.hackerrank.com/certificates/75ba379fa3b4",
       alt_name: "HackerRank P",
       // color_code: "#2AAFED",
-      color_code: "#47A048",
+      color_code: "#ffffff",
     },
     {
       title: "Machine Learning (With Honours)",
@@ -493,7 +493,7 @@ const certifications = {
         "https://www.coursera.org/account/accomplishments/certificate/HTZSC4FEZACH",
       alt_name: "HackerRank P",
       // color_code: "#2AAFED",
-      color_code: "#C5E2EE",
+      color_code: "#ffffff",
     },
     {
       title: "FinOps Certified Practitioner",
@@ -503,7 +503,7 @@ const certifications = {
         "https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/2f57d864-a5d2-4ea1-b638-b101adfaae0e-ajayi-mobayonle-ayodeji-ef95b021-19ad-4adb-98eb-79e8fde5d114-certificate.pdf",
       alt_name: "HackerRank P",
       // color_code: "#2AAFED",
-      color_code: "#47A048",
+      color_code: "#ffffff",
     },
     {
       title: "IBM DevOps",
@@ -513,7 +513,7 @@ const certifications = {
         "https://coursera.org/share/6d5e22552518092333ee6598d6a9020e",
       alt_name: "HackerRank P",
       // color_code: "#2AAFED",
-      color_code: "#2AAFED",
+      color_code: "#ffffff",
     },
     // color_code: "#8C151599",
     // color_code: "#7A7A7A",
@@ -561,7 +561,7 @@ const experience = {
           company: "SoftAlliance and Resources Limited",
           company_url: "https://softalliance.com/",
           logo_path: "softalliance.jpeg",
-          duration: "May 2021 - Sept 2021",
+          duration: "November 2020 - Sept 2021",
           location: "Lagos, Nigeria",
           description: "Designed and developed analysis systems to extract information from large-scale data. Developed dimensional data modeling. Implementing New Tools, and Documentation, among others.",
           color: "#040f26",
