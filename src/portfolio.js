@@ -655,7 +655,7 @@ const projects = {
     },
     {
       id: "1",
-      name: "VIRTUAL ASSISTANT (ENI)",
+      name: "VIRTUAL ASSISTANT",
       url: "#",
       description:
         "Virtual Assistant written in python, Speech recognition combined with chat functionality [In Production]",
